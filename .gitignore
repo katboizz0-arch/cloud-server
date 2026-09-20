@@ -3,3 +3,4 @@ node_modules
 private.filter
 # Logs
 logs
+.vercel
